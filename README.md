@@ -7,6 +7,8 @@
 ## Description
  _Recreation with some artistic license of the original school kid's game 'The Oregon Trail'. Includes customized bad, good, and neutral events, various illnesses, landmarks, and pick your own adventure options _
 
+ _I worked with Nate directly to design specifically the Java-scripting that would run the program in the back end (creating essentially the game people would play). I implemented branching statements with many randomized numbers that would then decide the fate of the player as they moved along. One item I was excited to put together was the animation that would occur when "Jesus Takes the Wheel". My goal in the program was to make the outcomes of the users decisions visible in a way that felt immersive and playable beyond just pressing a button and continuing through the end of the game.
+
 
 ## Setup/Contribution Requirements
 
