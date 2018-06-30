@@ -550,7 +550,6 @@ $(document).ready(function(){
   }
 
   $("#startBTN").click(function(){
-    document.getElementById('openingSong').play();
     $("#start").fadeOut(500);
     $("#characterInput").delay(500).fadeIn(500);
   });
